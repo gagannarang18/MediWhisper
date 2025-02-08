@@ -5,3 +5,4 @@ fsspec
 elevenlabs
 groq
 SpeechRecognition
+gradio
