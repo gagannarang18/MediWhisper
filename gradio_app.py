@@ -44,7 +44,7 @@ iface = gr.Interface(
         gr.Textbox(label="Doctor's Response"),
         gr.Audio("Temp.mp3")
     ],
-    title="AI Doctor with Vision and Voice"
+    title="MediWhisper:AI-powered voice & image-based medical analysis"
 )
 
 iface.launch(debug=True)
