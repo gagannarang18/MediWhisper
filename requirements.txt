@@ -1,0 +1,7 @@
+gTTS
+pyaudio
+pydub
+fsspec
+elevenlabs
+groq
+SpeechRecognition
