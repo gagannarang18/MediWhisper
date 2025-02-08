@@ -13,7 +13,6 @@ def encode_image(image_path):
 
 #Setup the multi-modal LLM
 from groq import Groq
-query="Is there something wrong with my face?"
 model="llama-3.2-90b-vision-preview"
 
 def analyze_image_with_query(query, model, encoded_image):
